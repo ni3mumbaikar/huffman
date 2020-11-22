@@ -20,10 +20,10 @@ A Huffman coding implementation in Java . You will find in this project :
 #### 1. Coding file 
 
 ```
-$ java huffmancoding -huff -c  $INPUT_FILE_PATH
+$ java Main -huff -c  $INPUT_FILE_PATH
 ```
 #### 2. Decoding file 
 
 ```
-$ java huffmancoding -huff -d  $INPUT_FILE_PATH
+$ java Main -huff -d  $INPUT_FILE_PATH
 ```
